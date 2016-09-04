@@ -1,0 +1,22 @@
+{
+  "name": "leansail-config",
+  "version": "0.0.1",
+  "description": "Centralized configuration management",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leansail/config.git"
+  },
+  "keywords": [
+    "configuration"
+  ],
+  "author": "leansail",
+  "license": "LGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/leansail/config/issues"
+  },
+  "homepage": "https://github.com/leansail/config#readme"
+}
